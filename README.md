@@ -33,3 +33,7 @@ https://github.com/mambu1998/Password-Generator
 # live Server link
 
 http://127.0.0.1:5500/index.html
+
+# live Server link 2
+
+https://mambu1998.github.io/Password-Generator/
