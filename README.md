@@ -29,3 +29,7 @@ THEN the password is either displayed in an alert or written to the page
 # Repository link
 
 https://github.com/mambu1998/Password-Generator
+
+# live Server link
+
+http://127.0.0.1:5500/index.html
