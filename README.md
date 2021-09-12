@@ -27,3 +27,5 @@ THEN the password is either displayed in an alert or written to the page
 12th September 2021
 
 # Repository link
+
+https://github.com/mambu1998/Password-Generator
